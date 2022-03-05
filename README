@@ -1,4 +1,4 @@
-# fake_news
+# fake_news detection model
 This is my fake news detection repository...
 
 In this model we use Machine Learning to predict whether a news is Fake or True.
