@@ -1,0 +1,11 @@
+# fake_news
+This is my fake news detection repository...
+
+In this model we use Machine Learning to predict whether a news is Fake or True.
+In this model we use 4 types of algorithms-
+1. Logistic Regression
+2. Decision Tree Classification
+3. Gradient Boosting Classifier
+4. Random Forest Classifier
+
+And lastly, we have to give input and the model will predict whether its True or Fake.
