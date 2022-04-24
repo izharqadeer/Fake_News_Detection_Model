@@ -8,4 +8,4 @@ In this model we use 4 types of algorithms-
 3. Gradient Boosting Classifier
 4. Random Forest Classifier
 
-And lastly, we have to give input and the model will predict whether its True or Fake.
+And lastly, we have to give input a news and the model will predict whether its True or Fake.
